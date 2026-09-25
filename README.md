@@ -49,6 +49,37 @@ The system helps students and job seekers understand their compatibility with a 
 - Job portal integration
 - Advanced NLP-based skill extraction
 
+##  System Architecture
+
+User
+↓
+Resume Upload
+↓
+Text Extraction
+↓
+Skill Identification
+↓
+Job Description Analysis
+↓
+Skill Matching
+↓
+Match Score
+↓
+Missing Skills
+↓
+Personalized Recommendations
+
+## 🔄 Workflow
+
+1. User uploads a resume.
+2. The system extracts text from the resume.
+3. Skills are identified from the resume.
+4. The user enters a job description.
+5. Required job skills are identified.
+6. Resume skills are compared with job requirements.
+7. The system calculates the match score.
+8. Missing skills and recommendations are displayed.
+
 ## 👥 Team
 
 *Team Name:* LOGIC-LEGENDS
