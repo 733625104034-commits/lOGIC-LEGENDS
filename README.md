@@ -8,7 +8,7 @@ An AI-powered system that analyzes resumes, extracts skills, compares them with 
 
 Students and job seekers often find it difficult to understand whether their resume matches a particular job role. Our system helps users identify their existing skills and missing skills based on job requirements.
 
- System Architecture
+## System Architecture
 
 User
 ↓
